@@ -268,6 +268,10 @@ ul.navbar-nav li a:hover:after, ul.navbar-nav li a:focus:after { opacity: 1; }
 
 /***** What we do (block 3) *****/
 
+.what-we-do-container:first-of-type {
+    margin-top: 60px;
+}
+
 .block-3-box {
 	margin-top: 30px;
 }
